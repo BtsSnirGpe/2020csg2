@@ -1,0 +1,9 @@
+10/2/20:Recherche 
+
+02/03/20: mise en wifi de esp32
+
+03/03/20:ceration de la clef ssh public et privet
+
+05/03/20:creation du prjet sur github 
+
+09/03/20:i,stallation de git totuise
